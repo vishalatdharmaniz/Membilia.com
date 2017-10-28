@@ -1,0 +1,44 @@
+.item-image-video
+{   
+    width: 48%;
+    height: 48%;
+}
+.col-xs-12 ,.col-sm-12
+{
+    margin-top: 20px;
+}
+.item-data
+{
+    padding: 25px;
+}
+.one-data-item
+{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.seller-pic
+{
+    display: inline-block;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+.seller-name-follow-button
+{
+    display: inline-block;
+    margin-left: 20px;
+}
+.follow-seller, .seller-name
+{
+    height: 38px;
+}
+.follow-button
+{
+    width: 100px;
+    border: 1px solid black;
+    height: 100%;
+}
+.seller-info
+{
+    display: flex;
+}

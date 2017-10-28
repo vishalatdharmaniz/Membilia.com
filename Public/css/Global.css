@@ -1,0 +1,44 @@
+/* Globals */
+.main-container
+{
+    margin-top: 100px !important;
+    margin-bottom: 100px !important;
+}
+
+/* Colors */
+.background-color-black
+{
+    background-color: #000;
+}
+.background-color-white
+{
+    background-color: #fff;
+}
+.color-white
+{
+    color: #fff;
+}
+
+/* alignment */
+.float-right
+{
+    float: right !important;
+}
+.inline-block
+{
+    display: inline-block;
+}
+.vertically-middle
+{
+    display: flex;
+    vertical-align: middle;
+}
+/* Fonts */
+@font-face {
+    font-family: helvetica;
+    src: url(../fonts/ABeeZee-Regular.otf);
+ }
+ .font-helvetica
+ {
+    font-family: helvetica;
+}

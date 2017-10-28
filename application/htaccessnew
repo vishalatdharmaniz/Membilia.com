@@ -1,0 +1,6 @@
+Order deny,allow
+Deny from all
+
+<Files "application/controllers/Home.php">
+    Allow from application/views/Navbar.php
+</Files>

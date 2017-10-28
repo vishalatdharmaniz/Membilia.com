@@ -1,0 +1,39 @@
+.navbar-inverse
+{
+    min-height: 71px;
+    background-color: black;
+    background-image: none;
+}
+.navbar-inverse .navbar-nav > li > a,.navbar-brand 
+{
+    padding-top: 0;
+    padding-bottom: 0;
+    line-height: 40px;
+}
+
+.navbar-inverse .navbar-nav > li > a
+{
+    color: #fff;
+    font-weight: 400;
+    font-size: 14px;
+    text-decoration: none;
+}
+.navbar-toggle
+{
+    border: 1px solid white;
+    border-color: white !important;
+}
+.main-logo
+{
+    height: 50px;
+    width: auto;
+    margin-top: 10px;
+}
+
+@media only screen and (min-width: 768px) 
+{
+    .navbar-inverse .navbar-nav > li > a 
+    {
+        line-height: 80px;
+    }
+}
